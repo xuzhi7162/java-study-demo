@@ -45,6 +45,8 @@
         <module>study-gateway</module>
         <module>study-sso</module>
         <module>study-kafka</module>
+        <module>study-minio</module>
+        <module>study-redis</module>
     </modules>
 
     <build>

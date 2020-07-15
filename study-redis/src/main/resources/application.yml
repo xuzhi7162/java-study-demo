@@ -1,0 +1,7 @@
+server:
+  port: 8080
+
+spring:
+  redis:
+    host: "${REDIS_HOST:39.105.164.230}"
+    port: "${REDIS_PORT:6379}"
