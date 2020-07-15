@@ -40,9 +40,11 @@
 
     <modules>
         <module>study-dependencies</module>
+        <module>study-common</module>
         <module>study-oauth2</module>
         <module>study-gateway</module>
         <module>study-sso</module>
+        <module>study-kafka</module>
     </modules>
 
     <build>

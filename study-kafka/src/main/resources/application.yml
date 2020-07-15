@@ -1,0 +1,13 @@
+server:
+  port: 8081
+
+spring:
+  kafka:
+    bootstrap-servers: "${KAFKA_SERVERS:localhost:9092}"
+    producer:
+      acks: 1
+      batch-size: 16384
+      retries: 0
+      buffer-memory: 33554432
+    consumer:
+      group-id: "${EVENT_KAFKA_GROUP_ID:study-kafka}"
