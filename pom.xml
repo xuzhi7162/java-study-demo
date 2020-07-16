@@ -47,6 +47,7 @@
         <module>study-kafka</module>
         <module>study-minio</module>
         <module>study-redis</module>
+        <module>study-justauth</module>
     </modules>
 
     <build>
