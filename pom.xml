@@ -48,6 +48,7 @@
         <module>study-minio</module>
         <module>study-redis</module>
         <module>study-justauth</module>
+        <module>study-socket</module>
     </modules>
 
     <build>
