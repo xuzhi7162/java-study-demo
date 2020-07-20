@@ -49,6 +49,7 @@
         <module>study-redis</module>
         <module>study-justauth</module>
         <module>study-socket</module>
+        <module>study-annotation</module>
     </modules>
 
     <build>
