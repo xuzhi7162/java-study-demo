@@ -50,6 +50,7 @@
         <module>study-justauth</module>
         <module>study-socket</module>
         <module>study-annotation</module>
+        <module>study-zxing</module>
     </modules>
 
     <build>
